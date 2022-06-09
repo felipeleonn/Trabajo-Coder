@@ -104,6 +104,7 @@ section.hero .down-arrow {
   position: absolute;
   width: 1em;
   margin-top: 30px;
+  animation: moveArrow 1s alternate-reverse infinite;
 }
 
 section.hero .down-arrow path {

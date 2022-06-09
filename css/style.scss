@@ -98,6 +98,7 @@ section.hero {
       position: absolute;
       width: 1em;
       margin-top: 30px;
+      animation: moveArrow 1s alternate-reverse infinite;
 
       path {
         fill: white;
